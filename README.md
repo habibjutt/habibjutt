@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 Reach me at habibjutt868@gmail.com
+📫 Reach me at habibjutt868@gmail.com
 <!--
 **habibjutt/habibjutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
