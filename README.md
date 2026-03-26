@@ -91,7 +91,21 @@ I'm a **Full-Stack Developer** based in **Dubai, UAE** - building modern web app
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <h3 align="center">Next.js SaaS Boilerplate</h3>
+      <p align="center">
+        <a href="https://github.com/habibjutt/nextjs_boilerplate">
+          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" />
+        </a>
+      </p>
+      <p align="center">Ship your SaaS in days. Next.js 16 starter with auth, Stripe billing, admin dashboard, blog CMS, RBAC and 50+ components.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%">
       <h3 align="center">Layout Generator</h3>
       <p align="center">
         <a href="https://github.com/habibjutt/grid_generator">
@@ -108,48 +122,18 @@ I'm a **Full-Stack Developer** based in **Dubai, UAE** - building modern web app
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Next.js SaaS Boilerplate</h3>
+    <td width="33%">
+      <h3 align="center">Express Postgres Auth</h3>
       <p align="center">
-        <a href="https://github.com/habibjutt/nextjs_boilerplate">
+        <a href="https://github.com/habibjutt/express-postgres-auth">
           <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" />
         </a>
       </p>
-      <p align="center">Ship your SaaS in days. Next.js 16 starter with auth, Stripe billing, admin dashboard, blog CMS, RBAC and 50+ components.</p>
+      <p align="center">Authentication starter with Express.js and PostgreSQL. JWT-based auth flow with user registration, login, and session management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ProStore</h3>
-      <p align="center">
-        <a href="https://github.com/habibjutt/prostore">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" />
-        </a>
-      </p>
-      <p align="center">Modern e-commerce platform built with Next.js, TypeScript, PostgreSQL, Prisma and ShadCN UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hisabi</h3>
-      <p align="center">
-        <a href="https://github.com/habibjutt/hisabi">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" />
-        </a>
-      </p>
-      <p align="center">Open-source personal finance tracking web app with SMS parser. Take control of your money.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -166,20 +150,18 @@ I'm a **Full-Stack Developer** based in **Dubai, UAE** - building modern web app
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibjutt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibjutt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <a href="https://github.com/habibjutt">
+    <img src="https://github-readme-stats.vercel.app/api?username=habibjutt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/habibjutt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibjutt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibjutt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibjutt&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <a href="https://github.com/habibjutt">
+    <img src="https://streak-stats.demolab.com/?user=habibjutt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -194,9 +176,6 @@ I'm always open to collaborating on interesting projects, open-source contributi
 [![Website](https://img.shields.io/badge/Website-devtrone.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://devtrone.com)
 [![GitHub](https://img.shields.io/badge/GitHub-habibjutt-181717?style=flat-square&logo=github)](https://github.com/habibjutt)
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=habibjutt&style=for-the-badge&color=blue)
 
 </div>
 
